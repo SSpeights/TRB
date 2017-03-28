@@ -12,6 +12,7 @@
   * [Solution Scope / Solution Context](solution-architecture-aspects/solution-scope-solution-context.md)
   * [Solution Building Block View](solution-architecture-aspects/solution-building-block-view.md)
   * [Process and Runtime View](solution-architecture-aspects/process-and-runtime-view.md)
+* [Solution Technical Concepts and General Archtiecture](solution-technical-concepts-and-general-archtiecture.md)
 
 ## Methods
 
