@@ -1,18 +1,17 @@
 # Solution Technical Concepts and General Archtiecture
 
-* [Persistency](https://mywiki.grp.haufemg.com/display/HGTRB/Solution%3A+Technical+Concepts+And+General+Architectural+Aspects#Solution:TechnicalConceptsAndGeneralArchitecturalAspects-Persistency)
-* [User interface](https://mywiki.grp.haufemg.com/display/HGTRB/Solution%3A+Technical+Concepts+And+General+Architectural+Aspects#Solution:TechnicalConceptsAndGeneralArchitecturalAspects-Userinterface)
-
-* [Transaction procession](https://mywiki.grp.haufemg.com/display/HGTRB/Solution%3A+Technical+Concepts+And+General+Architectural+Aspects#Solution:TechnicalConceptsAndGeneralArchitecturalAspects-Transactionprocession)
-* [Session handling](https://mywiki.grp.haufemg.com/display/HGTRB/Solution%3A+Technical+Concepts+And+General+Architectural+Aspects#Solution:TechnicalConceptsAndGeneralArchitecturalAspects-Sessionhandling)
-* [Exception / error handling](https://mywiki.grp.haufemg.com/display/HGTRB/Solution%3A+Technical+Concepts+And+General+Architectural+Aspects#Solution:TechnicalConceptsAndGeneralArchitecturalAspects-Exception/errorhandling)
-* [Business rules](https://mywiki.grp.haufemg.com/display/HGTRB/Solution%3A+Technical+Concepts+And+General+Architectural+Aspects#Solution:TechnicalConceptsAndGeneralArchitecturalAspects-Businessrules)
-* [Parallelization and threading](https://mywiki.grp.haufemg.com/display/HGTRB/Solution%3A+Technical+Concepts+And+General+Architectural+Aspects#Solution:TechnicalConceptsAndGeneralArchitecturalAspects-Parallelizationandthreading)
-* [Internationalization](https://mywiki.grp.haufemg.com/display/HGTRB/Solution%3A+Technical+Concepts+And+General+Architectural+Aspects#Solution:TechnicalConceptsAndGeneralArchitecturalAspects-Internationalization)
-* [Testability](https://mywiki.grp.haufemg.com/display/HGTRB/Solution%3A+Technical+Concepts+And+General+Architectural+Aspects#Solution:TechnicalConceptsAndGeneralArchitecturalAspects-Testability)
-* [Plausibility and validity checks](https://mywiki.grp.haufemg.com/display/HGTRB/Solution%3A+Technical+Concepts+And+General+Architectural+Aspects#Solution:TechnicalConceptsAndGeneralArchitecturalAspects-Plausibilityandvaliditychecks)
-* [Code generation](https://mywiki.grp.haufemg.com/display/HGTRB/Solution%3A+Technical+Concepts+And+General+Architectural+Aspects#Solution:TechnicalConceptsAndGeneralArchitecturalAspects-Codegeneration)
-* [Build-management](https://mywiki.grp.haufemg.com/display/HGTRB/Solution%3A+Technical+Concepts+And+General+Architectural+Aspects#Solution:TechnicalConceptsAndGeneralArchitecturalAspects-Build-management)
+* [Persistency](#Solution:TechnicalConceptsAndGeneralArchitecturalAspects-Persistency)
+* [User interface](#Solution:TechnicalConceptsAndGeneralArchitecturalAspects-Userinterface)
+* [Transaction procession](/Transaction procession)
+* [Session handling](/Session handling)
+* [Exception / error handling](/Exception / error handling)
+* [Business rules](/Business rules)
+* [Parallelization and threading](/Parallelization and threading)
+* [Internationalization](/Internationalization)
+* [Testability](/Testability)
+* [Plausibility and validity checks](/Plausibility and validity checks)
+* [Code generation](/Code generation)
+* [Build-management](/Build-management)
 
 The following chapters cover examples of frequent cross-cutting concerns or aspects.
 

@@ -18,5 +18,3 @@
   * [Solution Deployment View](operational-aspects/solution-deployment-view.md)
 * [Glossary and Literature Attribution](glossary-and-literature-attribution.md)
 
-## Methods
-
