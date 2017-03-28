@@ -6,6 +6,7 @@
 * [Introduction / Goals](introduction-goals.md)
 * [Stakeholders](stakeholders.md)
 * [Solution and Project Aspects](solution-and-project-aspects.md)
+* [Solution Constraints](solution-constraints.md)
 
 ## Methods
 
