@@ -1,9 +1,7 @@
-# Introduction / Goals 
+# Introduction / Goals
 
-* [Requirement overview](https://mywiki.grp.haufemg.com/pages/viewpage.action?pageId=96789650#Introduction/Goals-Requirementoverview)
-* [Solution goals](https://mywiki.grp.haufemg.com/pages/viewpage.action?pageId=96789650#Introduction/Goals-Solutiongoals)
-
-
+* [Requirement overview](/Requirement overview)
+* [Solution goals](#Introduction/Goals-Solutiongoals)
 
 The goal of this chapter is to describe what you're going to do. This may differ for different types of projects:
 
@@ -20,8 +18,6 @@ A compact summary of the functional environment of the solution. Answers the fol
 * What are the main requirements solved by the project?
 * What happens in the system’s environment?
 * Why should the system exist? Why is the system valuable or important? Which problems does the system solve?
-
-
 
 # Solution goals {#Introduction/Goals-Solutiongoals}
 

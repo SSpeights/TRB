@@ -1,10 +1,8 @@
 # Solution and Project Aspects
 
-
-
-* [Delivery timeline](https://mywiki.grp.haufemg.com/pages/viewpage.action?pageId=96789673#Solution&ProjectAspects-Deliverytimeline)
-* [Technical risks](https://mywiki.grp.haufemg.com/pages/viewpage.action?pageId=96789673#Solution&ProjectAspects-Technicalrisks)
-* [Migration](https://mywiki.grp.haufemg.com/pages/viewpage.action?pageId=96789673#Solution&ProjectAspects-Migration)
+* [Delivery timeline](/Delivery timeline)
+* [Technical risks](/Technical risks)
+* [Migration](/Migration)
 
 This section collects several organizational and project management aspects that are relevant for the software architecture.**Feel free to add other sections of importance!**
 
@@ -19,8 +17,4 @@ A list of identified technical risks, ordered by priority or a link to a documen
 ## Migration {#Solution&ProjectAspects-Migration}
 
 Organizational and technical aspects that must be considered for migration.
-
-
-
-
 

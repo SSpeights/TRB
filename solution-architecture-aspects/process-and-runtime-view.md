@@ -2,10 +2,8 @@
 
 In contrast to the context view and the decomposition into building blocks, the process and runtime view explains "what is going on in/on your solution". Abstractly defined, it covers the behavior and interaction of the system’s building blocks as runtime elements \(processes, tasks, activities, threads …\). For example, if you're describing an integration platform of multiple services, here you would describe how these services interact and, for example, which messages are passed around by your solution.
 
-
-
-* [Solution run-time processes](https://mywiki.grp.haufemg.com/display/HGTRB/Process+and+Runtime+View#ProcessandRuntimeView-Solutionrun-timeprocesses)
-* [Deployment processes](https://mywiki.grp.haufemg.com/display/HGTRB/Process+and+Runtime+View#ProcessandRuntimeView-Deploymentprocesses)
+* [Solution run-time processes](/Solution run-time processes)
+* [Deployment processes](/Deployment processes)
 
 ## Solution run-time processes {#ProcessandRuntimeView-Solutionrun-timeprocesses}
 

@@ -6,8 +6,6 @@ The goal of this section is to explain how a solution \(for example a new servic
 * Use a System Context Diagram to represent all external entities that may interact with your solution.
 * Add data formats and communication protocols with neighboring systems and the general environment if these are not specified in detail with the relevant components.
 
-
-
 It's best to use a separate list to add details about the relation to neighboring systems like
 
 data formats, communication protocols etc.
@@ -28,8 +26,8 @@ The Interaction List lists all communication endpoints provided and used by your
 
 This enables you / us to answer the following questions:
 
-* Which internal and external services/APIs \(outside Haufe\) are used? 
-* Which kind of interfaces between the components and services are used? 
+* Which internal and external services/APIs \(outside Haufe\) are used? 
+* Which kind of interfaces between the components and services are used? 
 * Which technologies \(REST, RPC, SOAP\) and which dataformats \(JSON, XML...\) are used fore each interface?
 
 
