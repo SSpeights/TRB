@@ -13,6 +13,7 @@
   * [Solution Building Block View](solution-architecture-aspects/solution-building-block-view.md)
   * [Process and Runtime View](solution-architecture-aspects/process-and-runtime-view.md)
 * [Solution Technical Concepts and General Archtiecture](solution-technical-concepts-and-general-archtiecture.md)
+* [Security Aspects](security-aspects.md)
 
 ## Methods
 
