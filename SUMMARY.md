@@ -15,6 +15,8 @@
 * [Solution Technical Concepts and General Archtiecture](solution-technical-concepts-and-general-archtiecture.md)
 * [Security Aspects](security-aspects.md)
 * [Operational Aspects](operational-aspects.md)
+  * [Solution Deployment View](operational-aspects/solution-deployment-view.md)
+* [Glossary and Literature Attribution](glossary-and-literature-attribution.md)
 
 ## Methods
 
