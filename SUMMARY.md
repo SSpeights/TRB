@@ -1,6 +1,6 @@
 # Summary
 
-## Overview
+## Table of Contents
 
 * [TRB Template \#1](README.md)
 * [Introduction / Goals](introduction-goals.md)
