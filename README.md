@@ -1,3 +1,11 @@
-# My Awesome API
+# TRB Template
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is a consolidated draft for the TRB template. It consolidates the following templates:
+
+* Architecture Template – CTO Chief Architect \(Rainer Zehnle\)
+* Secure Concept – CISO \(Jochen Vogel\)
+* Operations guidelines  - ICT \(Andreas Plaul\)
+
+  
+
+
