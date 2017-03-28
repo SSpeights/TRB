@@ -1,4 +1,4 @@
-# Solution Technical Concepts and General Archtiecture
+# Solution Technical Concepts and General Architecture
 
 * [Persistency](#Solution:TechnicalConceptsAndGeneralArchitecturalAspects-Persistency)
 * [User interface](#Solution:TechnicalConceptsAndGeneralArchitecturalAspects-Userinterface)
